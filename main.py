@@ -1,3 +1,6 @@
+# manim -pqh main.py (Class Name) -- Renders class in high quality and immediately plays video
+# manim -pql main.py (Class Name) -- Renders class in low quality and immediately plays video
+
 from manim import *
 from math import sqrt
 from manim_voiceover import VoiceoverScene
